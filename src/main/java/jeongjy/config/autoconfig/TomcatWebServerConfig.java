@@ -1,4 +1,4 @@
-package jeongjy.study;
+package jeongjy.config.autoconfig;
 
 import jeongjy.config.MyAutoConfiguration;
 import org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory;

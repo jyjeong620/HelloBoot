@@ -1,2 +1,2 @@
-jeongjy.study.DispatcherServletConfig
-jeongjy.study.TomcatWebServerConfig
+jeongjy.config.autoconfig.DispatcherServletConfig
+jeongjy.config.autoconfig.TomcatWebServerConfig
