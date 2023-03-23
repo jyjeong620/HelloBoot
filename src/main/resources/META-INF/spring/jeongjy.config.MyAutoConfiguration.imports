@@ -2,3 +2,4 @@ jeongjy.config.autoconfig.DispatcherServletConfig
 jeongjy.config.autoconfig.JettyWebServerConfig
 jeongjy.config.autoconfig.TomcatWebServerConfig
 jeongjy.config.autoconfig.PropertyPlaceholderConfig
+jeongjy.config.autoconfig.ServerPropertiesConfig
