@@ -1,3 +1,4 @@
+jeongjy.config.autoconfig.DataSourceConfig
 jeongjy.config.autoconfig.PropertyPostProcessorConfig
 jeongjy.config.autoconfig.DispatcherServletConfig
 jeongjy.config.autoconfig.JettyWebServerConfig
